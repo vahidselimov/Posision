@@ -1,0 +1,57 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 80%;
+    margin: auto;
+}
+.box1{
+    position: relative;
+    width: 100%;
+    height: 90px;
+    margin: 70px 0 ;
+    border: 7px solid black;
+    border-radius: 12%;
+}
+.box2{
+    position: relative;
+   
+}
+.box .box3{
+    position: absolute;
+    width: 70px;
+    height: 60px;
+    top: 10px;
+    left: 30px;
+    background-color: yellow;
+}
+.box .box4{
+    position:absolute;
+    width: 100px;
+    height: 70px;
+    top: 10px;
+    right: 45px
+}
+.box .box5{
+    position: absolute;
+    width: 55%;
+    height: 50px;
+    left: 30%;
+    top: 90px;
+    background-color: yellow;
+}
+.box .box6{
+    position: absolute;
+    width: 30%;
+    transform: translateX(-40%);
+}
+.box .box7{
+    position: absolute;
+    width: 55%;
+    height: 45px;
+    right: -75%;
+    top: -152px;
+    background-color: blue;
+}

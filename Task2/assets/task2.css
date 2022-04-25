@@ -1,0 +1,26 @@
+body{
+    position: relative;
+    height: 500vh;
+}
+h1{
+    background-color: rgb(155, 148, 148);
+    color: white;
+    padding-left: 30px;
+    position: sticky;
+    top: 7px;
+}
+div.ul{
+    padding: 20px,50px;
+}
+.div ul li{
+    list-style: none;
+    padding: 20px 0px;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
